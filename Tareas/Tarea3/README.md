@@ -42,7 +42,7 @@ El backend fue desarrollado en Golang, teniendo el puerto para la api `3000`, y 
 Donde la API al crear un registro necesita el siguiente JSON:
 ```json
 {
-    "titule": "titulo",
+    "title": "titulo",
     "artist": "artista",
     "year": 2021,
     "genre": "genero"
@@ -56,7 +56,7 @@ El DBMS que se usó de base de datos es *Mysql* y se encuentra en el puerto `330
 | Campo | Tipo | Descripción |
 | --- | --- | --- |
 | `id` | `int` | Identificador único del registro |
-| `titule` | `varchar(100)` | Título del álbum |
+| `title` | `varchar(100)` | Título del álbum |
 | `artist` | `varchar(100)` | Nombre del artista |
 | `year` | `int` | Año de lanzamiento del álbum |
 | `genre` | `varchar(100)` | Género musical del álbum |

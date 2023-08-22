@@ -1,0 +1,1 @@
+cmd_/home/rodrialeh/Documentos/SO1_2S2023_201900042/Tareas/Tarea4/src/ram_modules/ram_201900042.mod := printf '%s\n'   ram_201900042.o | awk '!x[$$0]++ { print("/home/rodrialeh/Documentos/SO1_2S2023_201900042/Tareas/Tarea4/src/ram_modules/"$$0) }' > /home/rodrialeh/Documentos/SO1_2S2023_201900042/Tareas/Tarea4/src/ram_modules/ram_201900042.mod

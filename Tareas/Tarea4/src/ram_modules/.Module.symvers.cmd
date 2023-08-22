@@ -1,0 +1,1 @@
+cmd_/home/rodrialeh/Documentos/SO1_2S2023_201900042/Tareas/Tarea4/src/ram_modules/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/rodrialeh/Documentos/SO1_2S2023_201900042/Tareas/Tarea4/src/ram_modules/Module.symvers -T /home/rodrialeh/Documentos/SO1_2S2023_201900042/Tareas/Tarea4/src/ram_modules/modules.order -i Module.symvers -e 
