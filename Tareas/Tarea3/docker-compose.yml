@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  database:
+    image: 'mysql'
+    container_name: 'db_container'
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+      - mysql-data:/var/lib/mysql
+    ports:
+      - '3306:3306'
+  
+  backend:
+    image: 'api-t3'
+    container_name: 'backend'
+    environment:
+      DB_USER: 'root'
+      DB_PASSWORD: 'root'
+      DB_HOST: 'database'
+      DB_PORT: '33061'
+      DB_NAME: 'biblioteca'
+    ports:
+      - '3000:3000'
+  
+  frontend:
+    image: 'front-t3'
+    container_name: 'frontend'
+    ports:
+      - '5173:5173'
+
+volumes:
+  mysql-data:
