@@ -1,12 +1,16 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"log"
 	"math"
+	"net"
 	"net/http"
+	"os"
 	"os/exec"
+	"syscall"
 	"time"
 
 	"github.com/gorilla/handlers"
@@ -40,17 +44,78 @@ type Data struct {
 	Porcentaje_ram int       `json:"porcentaje_ram"`
 	Porcentaje_cpu int       `json:"porcentaje_cpu"`
 	FechaHora      time.Time `json:"fecha_hora"`
+	Ip             string    `json:"ip"`
 	Procesos       []Proceso `json:"procesos"`
+}
+
+type PC_info struct {
+	Ip string `json:"ip"`
+}
+
+type Kill struct {
+	Pid int `json:"pid"`
+}
+type Message struct {
+	Message string `json:"message"`
 }
 
 // PARA RETORNAR MENSAJE INICIAL Y VERIFICAR QUE LA API ESTA CORRIENDO
 func mensaje_inicial(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Bienvenido a la API del proyecto 1 - SO1_201900042")
 }
+func obtenerDireccionIP() string {
+	addrs, err := net.InterfaceAddrs()
+	if err != nil {
+		fmt.Println(err.Error())
+		return ""
+	}
+
+	for _, addr := range addrs {
+		if ipnet, ok := addr.(*net.IPNet); ok && !ipnet.IP.IsLoopback() {
+			if ipnet.IP.To4() != nil {
+				return ipnet.IP.String()
+			}
+		}
+	}
+
+	return ""
+}
 
 // PARA RETORNAR LA INFORMACION DE RAM Y CPU
-func envio_data(w http.ResponseWriter, r *http.Request) {
-	w.Header().Add("content-type", "application/json")
+func envio_ip() {
+	url := "http://localhost:4000/ips"
+	var jsondata PC_info
+	jsondata.Ip = obtenerDireccionIP()
+
+	jsonData, err := json.Marshal(jsondata)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonData))
+	if err != nil {
+		fmt.Println("Error al crear la solicitud:", err)
+		return
+	}
+	req.Header.Set("Content-Type", "application/json")
+
+	client := &http.Client{}
+	resp, err := client.Do(req)
+	if err != nil {
+		fmt.Println("Error al hacer la solicitud:", err)
+		return
+	}
+	defer resp.Body.Close()
+
+	// Verificar el código de estado de la respuesta
+	if resp.StatusCode == http.StatusOK {
+		fmt.Println("Solicitud POST exitosa")
+	} else {
+		fmt.Println("Error en la solicitud. Código de estado:", resp.StatusCode)
+	}
+}
+
+func enviarInfo() {
 
 	// LECTURA DE LOS MODULOS
 	cmd := exec.Command("sh", "-c", "cat /proc/ram_201900042")
@@ -98,9 +163,61 @@ func envio_data(w http.ResponseWriter, r *http.Request) {
 	data.Porcentaje_ram = ram.Porcentaje_en_Uso
 	data.Porcentaje_cpu = int(math.Round(p_cpu[0]))
 	data.FechaHora = time.Now()
+	data.Ip = obtenerDireccionIP()
 	data.Procesos = cpu_data.Procesos
 
 	jsonData, err := json.Marshal(data)
+	if err != nil {
+		log.Fatal(err)
+	}
+	url := "http://localhost:4000/datos"
+	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonData))
+	if err != nil {
+		fmt.Println("Error al crear la solicitud:", err)
+		return
+	}
+	req.Header.Set("Content-Type", "application/json")
+
+	client := &http.Client{}
+	resp, err := client.Do(req)
+	if err != nil {
+		fmt.Println("Error al hacer la solicitud:", err)
+		return
+	}
+	defer resp.Body.Close()
+
+	// Verificar el código de estado de la respuesta
+	if resp.StatusCode == http.StatusOK {
+		fmt.Println("Solicitud POST exitosa")
+	} else {
+		fmt.Println("Error en la solicitud. Código de estado:", resp.StatusCode)
+	}
+
+}
+
+func matarProceso(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+	var kill Kill
+	_ = json.NewDecoder(r.Body).Decode(&kill)
+	var message Message
+	proceso, err := os.FindProcess(kill.Pid)
+	if err != nil {
+		message.Message = fmt.Sprintf("Proceso con pid: %d no encontrado", kill.Pid)
+		jsonData, err := json.Marshal(message)
+		if err != nil {
+			log.Fatal(err)
+		}
+		fmt.Fprintln(w, string(jsonData))
+	}
+
+	err = proceso.Signal(syscall.SIGKILL)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	message.Message = fmt.Sprintf("Proceso con pid: %d eliminado", kill.Pid)
+
+	jsonData, err := json.Marshal(message)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -109,18 +226,32 @@ func envio_data(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-
 	mux := mux.NewRouter()
 
 	mux.HandleFunc("/", mensaje_inicial).Methods("GET")
-	mux.HandleFunc("/data", envio_data).Methods("GET")
+	mux.HandleFunc("/kill", matarProceso).Methods("POST")
 
 	headers := handlers.AllowedHeaders([]string{"X-Requested-With", "Content-Type", "Authorization"})
 	methods := handlers.AllowedMethods([]string{"GET", "POST", "PUT", "HEAD", "OPTIONS"})
 	origins := handlers.AllowedOrigins([]string{"*"})
 
+	go func() {
+		ticker := time.NewTicker(1 * time.Second)
+		ticker2 := time.NewTicker(1 * time.Second)
+		defer ticker.Stop()
+		defer ticker2.Stop()
+		for true {
+			select {
+			case <-ticker.C:
+				enviarInfo()
+			case <-ticker2.C:
+				envio_ip()
+			}
+		}
+	}()
+
 	fmt.Println("Servidor corriendo en el puerto 3000 :D")
-	fmt.Println("http://localhost:3000/")
+	fmt.Println("http://0.0.0.0:3000/")
 	log.Fatal(http.ListenAndServe(":3000", handlers.CORS(headers, methods, origins)(mux)))
 
 }
