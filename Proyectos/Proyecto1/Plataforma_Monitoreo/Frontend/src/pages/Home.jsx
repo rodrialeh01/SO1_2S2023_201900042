@@ -1,10 +1,15 @@
+import { ArcElement, Chart as ChartJS, Legend, Tooltip } from 'chart.js';
 import React, { useEffect, useState } from 'react';
+import { Pie } from 'react-chartjs-2';
 import Service from '../Services/Service';
+import Tabla from '../components/Tabla';
 import Navbar from '../components/navbar';
 
 const Home = () => {
+  ChartJS.register(ArcElement,Tooltip, Legend)
   const [maquinasVIrtuales, setMaquinasVirtuales] = useState([]);
   const [maquina_seleccionada, setMaquinaSeleccionada] = useState("");
+  const [procesosvm, setProcesosvm] = useState([]);
   const [cantidadRam, setCantidadRam] = useState(0);
   const [cantidadCpu, setCantidadCpu] = useState(0);
 
@@ -26,9 +31,11 @@ const Home = () => {
           const res = await Service.getInfoVM(maquina_seleccionada);
           setCantidadRam(res.ram);
           setCantidadCpu(res.cpu);
+          setProcesosvm(res.procesos);
         } else {
           setCantidadRam(0);
           setCantidadCpu(0);
+          setProcesosvm([]);
         }
       } catch (error) {
         console.error("Error al obtener la información de la máquina virtual:", error);
@@ -69,17 +76,26 @@ const Home = () => {
         <div className="container d-flex justify-content-center">
           <div className="row">
             <div className="col-md-6">
-              <h2>{cantidadRam}% RAM</h2>
+              <h2 className='text-center'>{cantidadRam}% RAM</h2>
               <div style={{ maxWidth: '300px' }}>
+                <Pie data={{ labels: ['RAM', 'Libre'], datasets: [{ label: 'RAM', data: [cantidadRam, 100 - cantidadRam], backgroundColor:[ '#e61919', '#007aff'] }] }} />
               </div>
             </div>
             <div className="col-md-6">
-              <h2>{cantidadCpu}%CPU</h2>
-              <p>Este es el contenido de la segunda mitad del div.</p>
+              <h2 className='text-center'>{cantidadCpu}%CPU</h2>
+              <div style={{ maxWidth: '300px' }}>
+                <Pie data={{ labels: ['CPU', 'Libre'], datasets: [{ label: 'CPU', data: [cantidadCpu, 100 - cantidadCpu], backgroundColor: ['#e61919', '#007aff'] }] }} />
             </div>
           </div>
         </div>
       </div>
+      <div>
+        <h2 className='text-center'>Procesos</h2>
+      </div>
+      <div>
+        <Tabla procesos={procesosvm} ip={maquina_seleccionada}/>
+      </div>
+    </div>
     </div>
   );
 };

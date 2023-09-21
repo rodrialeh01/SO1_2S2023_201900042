@@ -56,10 +56,11 @@ export const enviarIps = async (req, res) => {
 }
 
 export const matarProceso = async (req, res) => {
-    pid = Number(req.body.pid)
+    console.log(req.body.pid)
+    const pid = req.body.pid
     console.log(pid)
     try{
-        const { data } = await axios.post(`http://${req.body.ip}:3000/matar`, {pid: pid});
+        const { data } = await axios.post(`http://${req.body.ip}:3000/kill`, {pid: pid});
         console.log(data)
         res.send({
             message: data.message
@@ -90,27 +91,18 @@ export const obtenerDatosGraficaTotal = async (req, res) => {
         })
     }
 }
-
+let objeto_enviar = {
+    cpu: 0,
+    ram: 0,
+    procesos: []
+}
 export const obtenerProcesos = async (req, res) => {
     if(objeto){
         if(objeto.ip == req.body.ip){
-            res.send({
-                cpu: objeto.cpu,
-                ram: objeto.ram,
-                procesos: objeto.procesos
-            })
-        }else{
-            res.send({
-                cpu:0,
-                ram:0,
-                procesos:[]
-            })
+            objeto_enviar.cpu = objeto.cpu
+            objeto_enviar.ram = objeto.ram
+            objeto_enviar.procesos = objeto.procesos
+            res.send(objeto_enviar)
         }
-    }else{
-        res.send({
-            cpu:0,
-            ram:0,
-            procesos:[]
-        })
     }
 }
