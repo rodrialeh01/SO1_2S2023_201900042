@@ -83,7 +83,7 @@ func obtenerDireccionIP() string {
 
 // PARA RETORNAR LA INFORMACION DE RAM Y CPU
 func envio_ip() {
-	url := "http://localhost:4000/ips"
+	url := "http://0.0.0.0:4000/ips"
 	var jsondata PC_info
 	jsondata.Ip = obtenerDireccionIP()
 
@@ -170,7 +170,7 @@ func enviarInfo() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	url := "http://localhost:4000/datos"
+	url := "http://backend:4000/datos"
 	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonData))
 	if err != nil {
 		fmt.Println("Error al crear la solicitud:", err)

@@ -2,32 +2,32 @@ version: '3'
 
 services:
   database:
-    image: 'mysql'
+    image: 'rodrialeh01/mysql'
     container_name: 'database-monitoreo'
     environment:
-      MYSQL_ROOT_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: 'root'
     volumes:
-      - mysql-data:/var/lib/mysql
+      - mysql-p1:/var/lib/mysql
     ports:
       - '3306:3306'
   
   backend:
-    image: 'api-node'
+    image: 'rodrialeh01/api-node'
     container_name: 'backend-monitoreo'
     environment:
-      DB_USER:'root'
-      DB_PASS:'root'
-      DB_NAME:'proyecto1_so1'
-      DB_PORT:'3306'
-      DB_HOST:'database'
+      DB_USER: 'root'
+      DB_PASS: 'root'
+      DB_NAME: 'proyecto1_so1'
+      DB_PORT: '3306'
+      DB_HOST: 'database'
     ports:
       - '4000:4000'
   
   frontend:
-    image: 'front-monitoreo'
+    image: 'rodrialeh01/front-monitoreo'
     container_name: 'frontend-monitoreo'
     ports:
       - '5173:5173'
 
 volumes:
-  mysql-data:
+  mysql-p1:

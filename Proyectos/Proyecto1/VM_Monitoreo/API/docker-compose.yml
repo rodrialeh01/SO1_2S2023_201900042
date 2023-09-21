@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  backend:
+    image: 'rodrialeh01/agente-backed'
+    container_name: 'agente-backend'
+    ports:
+      - '3000:3000'
+
