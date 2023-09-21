@@ -75,14 +75,13 @@ export const matarProceso = async (req, res) => {
 
 export const obtenerDatosGraficaTotal = async (req, res) => {
     try{
-        const connection = await db.getConnection(); 
+        console.log(req.body.ip)
         const script = `SELECT * FROM modulo WHERE ip = '${req.body.ip}' ORDER BY fecha_hora ASC`;
-        const [data] = await connection.query(script);
-        await connection.query(script);
+        const [rows, fields] = await db.query(script);
         
         res.send({
             message: "Datos enviados correctamente",
-            data: data
+            data: rows
         })
     }catch(error){
         console.log(error)

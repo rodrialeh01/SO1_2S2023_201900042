@@ -32,3 +32,10 @@ export const killProceso = async (ip, pid) => {
     const { data } = await instance.post(`kill`, {ip: ip, pid: pid});
     return data;
 }
+
+export const getHistorial = async (ip) => {
+    console.log("desde historial", ip)
+    const { data } = await instance.post(`historial`, {ip: ip});
+    console.log(data.data)
+    return data.data;
+}

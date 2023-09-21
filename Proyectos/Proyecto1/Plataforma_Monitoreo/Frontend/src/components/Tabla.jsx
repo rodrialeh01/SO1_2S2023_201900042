@@ -16,7 +16,7 @@ const Tabla = ({procesos, ip}) => {
         results = procesos;
     }else{
         results = procesos.filter( (info) =>
-            info.pid === parseInt(search)
+            info.pid === parseInt(search) || info.nombre.toLowerCase().includes(search.toLowerCase())
         )
     }
 
@@ -35,7 +35,7 @@ const Tabla = ({procesos, ip}) => {
         <div>
             <div class="input-group mb-3 p-2 mx-auto" style={{ width: "600px", height:'60px' }}>
                 <span class="input-group-text">PID</span>
-                <input type="number" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="PID" value={search} onChange={buscador}/>
+                <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="PID" value={search} onChange={buscador}/>
             </div>
             <table class="table">
                 <thead>
