@@ -83,7 +83,7 @@ func obtenerDireccionIP() string {
 
 // PARA RETORNAR LA INFORMACION DE RAM Y CPU
 func envio_ip() {
-	url := "http://0.0.0.0:4000/ips"
+	url := "http://34.139.202.248:4000/ips"
 	var jsondata PC_info
 	jsondata.Ip = obtenerDireccionIP()
 
