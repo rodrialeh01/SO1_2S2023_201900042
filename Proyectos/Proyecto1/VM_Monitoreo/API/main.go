@@ -170,7 +170,7 @@ func enviarInfo() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	url := "http://backend:4000/datos"
+	url := "http://34.139.202.248:4000/datos"
 	req, err := http.NewRequest("POST", url, bytes.NewBuffer(jsonData))
 	if err != nil {
 		fmt.Println("Error al crear la solicitud:", err)
