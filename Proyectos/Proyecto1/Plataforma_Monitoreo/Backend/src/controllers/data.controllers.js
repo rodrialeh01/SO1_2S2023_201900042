@@ -42,7 +42,9 @@ export const obtenerDatos = async (req, res) => {
 }
 
 export const obtenerIps = async (req, res) => {
-    setip.add(req.body.ip)
+    const clientIP = req.connection.remoteAddress;
+    console.log(clientIP)
+    setip.add(clientIP)
     res.send({
         message: "Ips obtenidas correctamente"
     })
