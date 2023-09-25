@@ -160,10 +160,11 @@ func enviarInfo() {
 
 	// CREACION DEL JSON DE RETORNO
 	var data Data
-	data.Porcentaje_ram = ram.Porcentaje_en_Uso
+	data.Porcentaje_ram = int(ram.Ram_en_Uso/ram.Total_Ram) * 100
 	data.Porcentaje_cpu = int(math.Round(p_cpu[0]))
 	data.FechaHora = time.Now()
 	data.Ip = obtenerDireccionIP()
+	fmt.Println(data.Porcentaje_ram)
 	data.Procesos = cpu_data.Procesos
 
 	jsonData, err := json.Marshal(data)
