@@ -138,6 +138,8 @@ Creado por:
 
         Esta plantilla de VM se utiliza para el Grupo de Instancias y se configuró el Autoscaling indicando la métrica de utilización a un 60%, como mínimo se tiene 1 instancia y máximo 4. Y dentro de cada instancia debe de estar alojado los módulos de Kernel y el Agente (que es la API de Golang) para permitir la comunicación con la Plataforma de Monitoreo.
 
+        Se añadió un script de automatización a la plantilla la cual puede encontrarse en [script](./VM_Monitoreo/script_configuraciones.sh).
+
 - ### Plataforma de Monitoreo
 
     - #### Frontend

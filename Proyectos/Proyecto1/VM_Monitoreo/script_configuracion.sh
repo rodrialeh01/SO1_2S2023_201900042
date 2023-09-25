@@ -31,7 +31,7 @@ sudo apt install gcc-12 -y
 sudo apt-get install python3 python3-dev -y
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 sudo python3 get-pip.py
-
+pip3 install flask
 
 
 # Inicio sesión en dockerhub
@@ -62,11 +62,18 @@ cp ram_201900042.ko ../../../../../
 cd ../../API
 sudo cp docker-compose.yml ../../../../../
 
+# 3. Copio la carpeta de la API a matar
+cd ../../
+sudo cp -r ./API_matar ../../../
+
 # 3. Regreso a la carpeta main
-cd ../../../../../
+cd ../../../
 
 # 4. Elimino la carpeta del repositorio
 sudo rm -r SO1_2S2023_201900042
 
 # 5. Ejecuto el docker compose
-sudo docker-compose up 
+sudo mkdir /agente
+sudo mv docker-compose.yml /agente
+cd /agente
+sudo docker compose up 

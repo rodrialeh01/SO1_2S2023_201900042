@@ -11,8 +11,10 @@ let objeto = {};
 export const obtenerDatos = async (req, res) => {
     console.log("Recibiendo datos")
     console.log(req.body)
+    const ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+    const ipv4Address = ipAddress.split(':').pop();
     objeto = {
-        ip: req.body.ip,
+        ip: ipv4Address,
         cpu: req.body.porcentaje_cpu,
         ram: req.body.porcentaje_ram,
         procesos: req.body.procesos
@@ -25,7 +27,7 @@ export const obtenerDatos = async (req, res) => {
         const newFecha = new Date(fecha_obtenida)
         const fecha = newFecha.toISOString().slice(0, 19).replace('T', ' ');
         console.log(fecha)
-        const script = `INSERT INTO modulo (ip, cpu, ram, fecha_hora) VALUES ('${req.body.ip}', '${req.body.porcentaje_cpu}', '${req.body.porcentaje_ram}', '${fecha}')`;
+        const script = `INSERT INTO modulo (ip, cpu, ram, fecha_hora) VALUES ('${ipv4Address}', '${req.body.porcentaje_cpu}', '${req.body.porcentaje_ram}', '${fecha}')`;
         await connection.query(script);
         
         connection.release();
@@ -42,9 +44,10 @@ export const obtenerDatos = async (req, res) => {
 }
 
 export const obtenerIps = async (req, res) => {
-    const clientIP = req.connection.remoteAddress;
-    console.log(clientIP)
-    setip.add(clientIP)
+    const ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+    const ipv4Address = ipAddress.split(':').pop();
+    console.log(ipv4Address)
+    setip.add(ipv4Address)
     res.send({
         message: "Ips obtenidas correctamente"
     })
