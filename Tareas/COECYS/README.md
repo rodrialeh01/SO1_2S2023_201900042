@@ -42,3 +42,11 @@ Y algo muy importante ante toda la IA Generativa es siempre adoptar los parametr
 ![image](./Images/ia5.jpeg)
 ![image](./Images/ia6.jpeg)
 ![image](./Images/ia7.jpeg)
+
+## Conclusiones
+
+- La investigación aunque no se mire, es parte fundamental de la vida laboral ya que con ello puede sacarse nuevas ideas, nuevosa proyectos y nuevas innovaciones que pueden llegar a ser utiles al mundo de la tecnología.
+
+- La inteligencia artificial es una herramienta muy poderosa que puede llegar a ser muy util en el mundo de la tecnología, hoy en dia se usa mucho estas herramientas de IA Generativa y son utiles para la pronta creacion de nuevos bots que sean utiles para la orientacion de las tareas del dia a dia.
+
+- Si uno quiere poder alcanzar grandes puestos de tecnología, involucrarse en la ciencia y ese mundo, es necesario tomar como base la investigación, con ello poder adaptarlo a nuestro entorno y asi poder crecer mas saliendo del pais innovando y creando nuevas investigaciones que puedan ayudar mucho al mundo y en si a nuestro entorno.
