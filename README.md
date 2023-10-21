@@ -10,6 +10,7 @@
     - [`📝 Tarea 4`](./Tareas/Tarea4)
     - [`📝 Tarea 5`](./Tareas/Tarea5)
     - [`📝 Tarea 6`](./Tareas/Tarea6)
+    - [`📝 Tarea 7`](./Tareas/Tarea7)
     - [`📝 Ensayo COECYS`](./Tareas/COECYS/)
 
 - ### 👨‍💻 Proyectos
