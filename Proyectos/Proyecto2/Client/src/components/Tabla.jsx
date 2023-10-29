@@ -8,29 +8,29 @@ const Tabla = () => {
         columnHelper.accessor('', {
             id: "S.No",
             cell: (info) => <span>{info.row.index +1}</span>,
-            header: 'S.No',
+            header: 'No',
         }),
-        columnHelper.accessor('Carnet', {
+        columnHelper.accessor('carnet', {
             cell: (info) => <span>{info.getValue()}</span>,
             header: 'Carnet',
         }),
-        columnHelper.accessor('Nombre', {
+        columnHelper.accessor('nombre', {
             cell: (info) => <span>{info.getValue()}</span>,
             header: 'Nombre',
         }),
-        columnHelper.accessor('Curso', {
+        columnHelper.accessor('curso', {
             cell: (info) => <span>{info.getValue()}</span>,
             header: 'Curso',
         }),
-        columnHelper.accessor('Nota', {
+        columnHelper.accessor('nota', {
             cell: (info) => <span>{info.getValue()}</span>,
             header: 'Nota',
         }),
-        columnHelper.accessor('Semestre', {
+        columnHelper.accessor('semestre', {
             cell: (info) => <span>{info.getValue()}</span>,
             header: 'Semestre',
         }),
-        columnHelper.accessor('Year', {
+        columnHelper.accessor('year', {
             cell: (info) => <span>{info.getValue()}</span>,
             header: 'Año',
         }),
