@@ -12,11 +12,12 @@ CORS(app)
 
 load_dotenv()
 
-bdsql = mysql.connector.connect(
+bdsql = mysql.connector.pooling.MySQLConnectionPool(
     host=os.getenv('DB_HOST'),
     user=os.getenv('DB_USER'),
     passwd=os.getenv('DB_PASSWORD'),
-    database=os.getenv('DB_NAME')
+    database=os.getenv('DB_NAME'),
+    pool_size=25
 )
 
 bdredis = redis.StrictRedis(
@@ -53,18 +54,23 @@ def entrada():
 
     print('Ya se registro en Redis')
 
-    #Conecta con mysql y lo manda a su bd
-    sql = "INSERT INTO alumno (carnet, nombre, curso, nota, semestre, year) VALUES (%s, %s, %s, %s, %s, %s)"
-    values = (carnet, nombre, curso, nota, semestre, anio)
-    cursor = bdsql.cursor()
-    cursor.execute(sql, values)
-    bdsql.commit()
-
-    print('Ya se registro en MySQL')
-    return jsonify({
-        'message': 'Se registro correctamente en ambas bases de datos'
-    })
+    try:
+        #Conecta con mysql y lo manda a su bd
+        conexion = bdsql.get_connection()
+        cursor = conexion.cursor()
+        sql = "INSERT INTO alumno (carnet, nombre, curso, nota, semestre, year) VALUES (%s, %s, %s, %s, %s, %s)"
+        values = (carnet, nombre, curso, nota, semestre, anio)
+        cursor.execute(sql, values)
+        result = cursor.fetchall()
+        print('Ya se registro en MySQL')
+        print(result)
+        return jsonify({
+            'message': 'Se registro correctamente en ambas bases de datos'
+        })
+    finally:
+        cursor.close()
+        conexion.close()
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=4000, debug=True)
+    app.run(host='0.0.0.0', port=4000)

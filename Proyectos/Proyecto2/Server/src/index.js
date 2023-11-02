@@ -22,12 +22,12 @@ const io = new Server(httpServer, {
     }
 });
 
-io.on('real_time', (socket) => {
+io.on('connection', (socket) => {
     console.log('New connection');
-    socket.on('notas', () => {
-        setInterval(()=>{
+    socket.on('notas_rt', () => {
+        setInterval(() => {
             getNotasIO(socket);
-        },500);
+        },1000);
     });
 });
 

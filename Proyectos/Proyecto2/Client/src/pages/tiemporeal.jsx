@@ -7,12 +7,14 @@ import {
     Title,
     Tooltip,
 } from 'chart.js';
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Bar } from 'react-chartjs-2';
+import io from 'socket.io-client';
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import './bodypages.css';
-
+    
+const socket = io('http://localhost:5000');
 const TiempoReal = () => {
     ChartJS.register(
         CategoryScale,
@@ -25,8 +27,76 @@ const TiempoReal = () => {
     const [cantidadDatos, setCantidadDatos] = useState(0);
     const [cantidadAlumnos, setCantidadAlumnos] = useState([60,70,80,90,100]);
     const [nombreCursos, setNombreCursos] = useState(["SO1","BD1","LFP","SA","AYD1"]);
+    const [semestreSeleccionado, setSemestreSeleccionado] = useState('S');
+    const [semestre, setSemestre] = useState('S');
     const stylefont = {
         fontFamily:"'Alata', sans-serif"
+    }
+
+    useEffect(() => {
+        socket.emit('notas_rt')
+        socket.on('notas', (data) => {
+            console.log(data);
+            setCantidadDatos(data.length);
+            let contador1 = 0;
+            let contador2 = 0;
+            let contador3 = 0;
+            let contador4 = 0;
+            let contador5 = 0;
+            console.log('SEMESTRE: ', semestre)
+            data.map((nota) => {
+                if(semestreSeleccionado === 'S'){
+                    if(nota.curso === "SO1"){
+                        contador1++;
+                    }else if(nota.curso === "BD1"){
+                        contador2++;    
+                    }else if(nota.curso === "LFP"){
+                        contador3++;
+                    }else if(nota.curso === "SA"){
+                        contador4++;
+                    }else if(nota.curso === "AYD1"){
+                        contador5++;
+                    }
+                }else if(semestreSeleccionado === "1S"){
+                    if(nota.semestre === "1S"){
+                        if(nota.curso === "SO1"){
+                            contador1++;
+                        }else if(nota.curso === "BD1"){
+                            contador2++;    
+                        }else if(nota.curso === "LFP"){
+                            contador3++;
+                        }else if(nota.curso === "SA"){
+                            contador4++;
+                        }else if(nota.curso === "AYD1"){
+                            contador5++;
+                        }
+                    }
+                }else if(semestreSeleccionado === "2S"){
+                    if(nota.semestre === "2S"){
+                        if(nota.curso === "SO1"){
+                            contador1++;
+                        }else if(nota.curso === "BD1"){
+                            contador2++;    
+                        }else if(nota.curso === "LFP"){
+                            contador3++;
+                        }else if(nota.curso === "SA"){
+                            contador4++;
+                        }else if(nota.curso === "AYD1"){
+                            contador5++;
+                        }
+                    }
+                }
+            });
+            setCantidadAlumnos([contador1,contador2,contador3,contador4,contador5]);
+        });
+        
+    }, [semestreSeleccionado]);
+
+    const handleSelectChange = (e) => {
+        setSemestre(e.target.value);
+    };
+    const handleButtonClick = (e) => {
+        setSemestreSeleccionado(semestre);
     }
     return(
         <div className="flex flex-col h-screen">
@@ -42,15 +112,12 @@ const TiempoReal = () => {
                     <h2 className="text-2xl text-white font-semibold " style={stylefont}>Curso vs Cantidad de Alumnos</h2>
                 </div>
                 <div className="flex justify-center items-center mt-4">
-                    <select className="px-4 py-2 border border-gray-500 rounded-md mr-2">
-                        <option value="opcion1">Semestre</option>
-                        <option value="opcion2">Opción 2</option>
+                    <select className="px-4 py-2 border border-gray-500 rounded-md mr-2" onChange={handleSelectChange}>
+                        <option value="S">Semestre</option>
+                        <option value="1S">Primer Semestre</option>
+                        <option value="2S">Segundo Semestre</option>
                     </select>
-                    <select className="px-4 py-2 border border-gray-500 rounded-md mr-2">
-                        <option value="opcion1">Curso</option>
-                        <option value="opcion2">Opción 2</option>
-                    </select>
-                    <button className="rounded-md px-3.5 py-2 m-1 overflow-hidden relative group cursor-pointer border-2 font-medium border-red-600  text-white">
+                    <button className="rounded-md px-3.5 py-2 m-1 overflow-hidden relative group cursor-pointer border-2 font-medium border-red-600  text-white" onClick={handleButtonClick}>
                         <span className="absolute w-64 h-0 transition-all duration-300 origin-center rotate-45 -translate-x-20 bg-red-600 top-1/2 group-hover:h-64 group-hover:-translate-y-32 ease"></span>
                         <span className="relative text-red-600 transition duration-300 group-hover:text-white ease">Filtrar</span>
                     </button>

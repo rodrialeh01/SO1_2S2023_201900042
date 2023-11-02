@@ -1,9 +1,17 @@
 import { createColumnHelper, flexRender, getCoreRowModel, getPaginationRowModel, useReactTable } from '@tanstack/react-table';
-import { useState } from "react";
-import { DATA_ENTRADA } from "./data";
+import { useEffect, useState } from "react";
+import Service from '../Service/Service';
 const Tabla = () => {
     const columnHelper = createColumnHelper();
+    const [data, setData] = useState([]);
 
+    useEffect(() => {
+        Service.getData()
+        .then((res) => {
+            console.log(res);
+            setData(res);
+        })
+    }, [])
     const columns = [
         columnHelper.accessor('', {
             id: "S.No",
@@ -35,7 +43,8 @@ const Tabla = () => {
             header: 'Año',
         }),
     ]
-    const [data] = useState(()=>[...DATA_ENTRADA]);
+
+    
 
     const table = useReactTable({
         data,
