@@ -14,7 +14,7 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import './bodypages.css';
     
-const socket = io('http://localhost:5000');
+const socket = io('http://34.148.216.202:5000');
 const TiempoReal = () => {
     ChartJS.register(
         CategoryScale,
