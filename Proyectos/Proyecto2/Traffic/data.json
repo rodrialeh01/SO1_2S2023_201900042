@@ -1,0 +1,8002 @@
+[
+    {
+        "carnet": 202015143,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202188648,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202110481,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202033880,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202241187,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201919323,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339514,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202123468,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202028175,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202222331,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202397056,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201912393,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202164585,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202136746,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201975114,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202146812,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201952821,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202298721,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202143896,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202264382,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202384876,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201913291,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202361127,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201988451,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202237851,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201919337,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201973901,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202295012,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202364272,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202341194,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202331133,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202216928,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201920580,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202098006,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202355982,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202316435,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202343585,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202114327,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202362265,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202227216,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201923297,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202190084,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202212094,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202224984,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202013934,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339355,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202347180,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339371,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202335351,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202213239,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201961350,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202249196,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202284209,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202321191,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201948576,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201920439,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202272602,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202154998,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202024732,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202283683,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201941829,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201946453,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202015004,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202333806,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202224093,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339306,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201935071,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202298930,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202223828,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202117299,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202299452,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202274051,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202177720,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202295495,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202329548,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202016808,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201967796,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202042279,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202311645,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201957312,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202332989,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202249266,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201983804,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202096639,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202385946,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202141389,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202184805,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202184467,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202064145,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202121755,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202391297,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202123338,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202154529,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202349850,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202190524,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201941970,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202158094,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202042978,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201941857,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201985343,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202077573,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202112134,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202184872,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202365481,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202010594,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202310761,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201938125,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201932479,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202186438,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202237292,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202316247,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202121559,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202096365,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202347893,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202145490,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202023406,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202213868,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201911030,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202248183,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202176418,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201968700,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202182036,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201967739,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202383886,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202015725,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202293927,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202085538,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201939643,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202063946,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202180265,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202388446,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202331150,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201985143,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202298832,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202310073,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201975705,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201998655,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202061074,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202138365,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202332913,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202361502,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202080899,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201977699,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202370395,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201910647,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201995328,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201924925,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202376082,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202084295,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201986309,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202389110,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201970286,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202378456,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202251099,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202192498,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202290485,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202298769,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202236331,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202037039,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202022629,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202314643,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202340246,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201942912,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202051169,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201964362,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201940849,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202240608,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202388961,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202315268,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202167416,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201988823,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202237087,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202078261,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202373445,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202125065,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202066887,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201950897,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202172264,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201933738,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202040309,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202292150,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201929947,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202134586,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202355613,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202150339,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201982935,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202076538,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201940555,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201987980,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202142464,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202113280,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201941978,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202269167,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201944156,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202071168,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202156141,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202324247,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202165019,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202274371,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202254168,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202051296,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202217635,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202187452,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202377545,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202118644,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202281341,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201958493,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202293896,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202232223,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202390460,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202315396,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202251624,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202348204,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202249900,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202197022,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202387000,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201986856,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202133942,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201922269,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202056497,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202323011,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201933797,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202010433,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202294560,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202391191,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202296227,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202015749,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202332262,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202366284,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202270269,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202269274,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201917125,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201979477,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202110262,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202341872,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202097938,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202336406,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202364482,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202298872,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201917550,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202094858,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201956331,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202058164,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202113794,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202170895,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202126092,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202253751,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202039434,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201934954,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202093825,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202191283,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202171594,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201961291,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202225644,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202277420,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202114154,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202032782,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201953110,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202288612,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201967255,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202092174,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202295372,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202074379,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202270406,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201940745,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202330925,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202224409,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201968734,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202328644,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202097950,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202292084,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202243792,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201999341,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202021943,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202124963,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202059953,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202355586,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202363940,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202039562,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202215734,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202279136,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202152774,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202026477,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202280360,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202115990,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202035010,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202080963,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202064729,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202182235,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202015547,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202220809,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202143884,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202125858,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202299235,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202265189,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202074247,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202157819,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202373385,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201924647,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201948452,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201917814,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202374490,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202110492,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201999500,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202285401,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202062563,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201991734,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202048146,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202267953,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202156454,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202210169,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202391211,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202211053,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201965951,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201938027,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202124295,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202241974,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201941299,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202359874,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201922340,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202280052,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202147147,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202367727,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201984667,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202290688,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202072715,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202195126,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202282286,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202170819,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202360086,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202312962,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202054601,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202126716,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202369956,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201943841,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202117269,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202184114,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202390256,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202297131,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202091444,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202288384,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201923440,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202330591,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202365538,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202072867,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201923492,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202274606,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202364401,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202391551,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339588,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201989890,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202034826,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201966125,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201956876,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202250511,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202116138,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202251455,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202157892,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202311997,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202250377,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202066797,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202070006,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202148970,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201998215,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201930289,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202060940,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339813,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201971419,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202222575,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202382750,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202030989,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202167507,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202052008,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202066195,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201920164,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202084415,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202016027,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202366642,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201942148,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201914414,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202230627,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202175486,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202181210,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202222799,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202056796,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202248889,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202332257,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202111699,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202021026,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201917118,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201996705,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202195638,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201919379,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201935127,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202143801,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202147899,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201940306,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202136529,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202254925,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202349492,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202140051,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202034852,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202371800,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202156518,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202132812,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202273789,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201985118,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202024312,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202337526,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201942673,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202224206,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202279800,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202381282,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202370780,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202323923,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202045853,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202278823,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201941743,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202035383,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202354651,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202240106,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202187884,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202193502,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202050057,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202348300,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202040755,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202245822,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201988051,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202349475,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202225697,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202079495,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202177467,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201914728,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202335629,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201925369,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202127633,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202238379,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202019569,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202365229,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202180329,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202384691,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201917538,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202158850,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202242238,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201993944,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202225150,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202145675,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202099191,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202185479,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202241009,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202195089,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202348332,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202071339,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202024522,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202077924,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202129417,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202331664,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202075484,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202082110,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202296599,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202183285,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201924691,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202117611,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202220196,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202244347,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202222229,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202192076,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202271004,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201911494,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201996790,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201939218,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201934661,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202073905,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202094223,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202343674,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201967952,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201957579,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202121005,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202248163,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202132508,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202347389,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202096715,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201999509,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202113865,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202240500,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202133841,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202211606,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202072876,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202311388,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202122602,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201951131,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202230830,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202270543,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202074655,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201968770,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202132803,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202389722,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202027398,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202082938,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202358122,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201932728,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202177732,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202147488,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201943208,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202268408,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201980001,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202113885,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202343080,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202164252,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202328602,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202077582,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202211396,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201989128,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202041798,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201991586,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202238860,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202221919,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202185364,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201918952,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201969551,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202234193,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201910116,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202228233,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202192237,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201966930,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202369700,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202321732,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202052037,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202355577,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202080098,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202259638,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201925095,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202013063,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202357695,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202065445,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201916344,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202097914,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202351895,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202132100,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202074927,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202141746,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202316249,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202224763,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201915112,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202369195,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202182193,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201985886,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201938126,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201996504,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202359601,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202344972,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202122580,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202127902,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202268469,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202060665,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201978107,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202189080,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202263638,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202149856,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201969303,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202180936,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202075296,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202238916,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202281178,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202190391,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202347355,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202046511,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202070641,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202191680,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202288870,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202296184,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202288854,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202043683,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202351164,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202180158,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201910048,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202178392,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202031952,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202279830,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339836,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202066107,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202181158,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202327887,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202278950,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202323493,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202146080,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202288029,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202272818,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202280239,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202029414,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202064791,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201989981,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202062926,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202219412,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202078506,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202110300,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202186217,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202390334,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202193819,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202081684,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202088456,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201952118,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202162630,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202049676,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202326599,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201988685,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201969274,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202257533,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201963853,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202075617,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202023438,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202398168,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201973067,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202350821,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201982459,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202234312,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202343660,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202276230,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201910061,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201979181,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202193285,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202082100,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202197423,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202332540,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202266539,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201941060,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202280320,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202043835,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202291248,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202148348,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202052331,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202259718,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202122198,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202234156,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202059674,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201994526,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202172040,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202324873,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202160774,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201976927,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202325229,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202311687,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202030980,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202023088,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202192337,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202321321,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202180662,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202025827,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202317796,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202315698,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202262491,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202034089,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202080444,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202087019,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202271956,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202097067,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202084227,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202244038,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201977152,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202383369,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202066502,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202089180,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202110089,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202374702,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202087337,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202249089,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202099402,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202393933,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202345488,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202389837,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202292181,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202398066,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201993420,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202392639,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202085847,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202091802,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202071964,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201964284,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201985559,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202211084,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202312697,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201916954,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202377542,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202069611,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202159103,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201997925,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202129339,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202083234,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202363626,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202354157,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202213516,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202325227,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202097747,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202023311,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202038498,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201979166,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202063004,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202373638,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202318093,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201916239,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202042053,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202282515,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202348941,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201944462,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202162229,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202349372,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202213010,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202341607,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202372376,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202068969,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202189111,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202180952,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202242851,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202367366,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202060707,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202234560,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202362070,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202281072,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202254170,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201986817,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201972630,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202240085,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202190070,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202221850,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202245722,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201924752,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201912559,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202294445,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202287100,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202018722,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202331912,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202176806,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201975955,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202073695,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202163504,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202112010,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201924782,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201922918,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202046351,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202263000,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202182911,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201953458,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202012275,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202299876,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202366401,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202220728,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202129959,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202275200,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202135539,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202125791,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202138644,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202023957,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201916825,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202141897,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202234251,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202237835,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201932314,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201982034,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202018459,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202111486,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202184245,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202369630,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201914129,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202065068,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202226945,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202331889,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201939249,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202035541,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202173798,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202212515,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201961273,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202089117,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202394444,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202352741,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202361821,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201951778,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202229978,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202098034,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201961209,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202380892,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202337556,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202081370,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201920625,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201916447,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202262427,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201990004,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202153868,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202330477,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202375810,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202348513,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202182860,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202246529,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202166410,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202147810,
+        "nombre": "Maria",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202240195,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201971261,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202098864,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202040508,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202241454,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202260182,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202217390,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202312287,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202069085,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202028852,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201986306,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202387087,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202281988,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201934938,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202222768,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201940906,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202185552,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202340739,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202338273,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202236590,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202246227,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202234431,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202235534,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202367019,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202032010,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202066509,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202197414,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202121801,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201960664,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201944549,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201959666,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202087095,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202176589,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202382253,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202159698,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202381240,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202120684,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202227719,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201943777,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202267082,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202286965,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202164533,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202080746,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202165258,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202318421,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202254088,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202323394,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201952397,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202041174,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202113483,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201926587,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202054775,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202317146,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202368248,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202333070,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202124666,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201990370,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201990226,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202025163,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202079883,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202085576,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202063152,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202215301,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202010590,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202126394,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202091960,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202372796,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202026649,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202145455,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202265677,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202054125,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202362151,
+        "nombre": "Maria",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202382806,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202017261,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202242224,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202249981,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202119257,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202227755,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202027668,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201979559,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202221709,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202364222,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202175922,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202175511,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202133771,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202225263,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201974804,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202166484,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202021176,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202359179,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201927705,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202027115,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202245561,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202348115,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202334523,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201920770,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202378668,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202192924,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202281208,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202221313,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202093899,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202352324,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202322090,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201990062,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201985914,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202114705,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202391991,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201921102,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202331027,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202057176,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202373500,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202082144,
+        "nombre": "Sofia",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202252717,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201969151,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201915516,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202247605,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201939938,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202347902,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202159235,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202162453,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202049687,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202353209,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202357921,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202026307,
+        "nombre": "Maria",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201959266,
+        "nombre": "Pedro",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201917303,
+        "nombre": "Sofia",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202128132,
+        "nombre": "Carlos",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202324559,
+        "nombre": "Pedro",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202330233,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202398782,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202062061,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202357434,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201938447,
+        "nombre": "Carlos",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202218114,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202022317,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202390301,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202328467,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202240583,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202058400,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339941,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202367623,
+        "nombre": "Luis",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202370282,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202075324,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201943046,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202175424,
+        "nombre": "Ana",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202018098,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202053579,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202169893,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202339920,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202011946,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202223827,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202254885,
+        "nombre": "Juan",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201945127,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202187336,
+        "nombre": "Luis",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202257169,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202235269,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202194630,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202342980,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201936403,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202135970,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201953698,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201940247,
+        "nombre": "Ana",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202219458,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202355940,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201955824,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202284504,
+        "nombre": "Laura",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202274319,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202289879,
+        "nombre": "Maria",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202294492,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201920841,
+        "nombre": "Luis",
+        "curso": "SA",
+        "nota": 70,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201961006,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202156592,
+        "nombre": "Laura",
+        "curso": "AYD1",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202077786,
+        "nombre": "Ana",
+        "curso": "SO1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202096133,
+        "nombre": "Sofia",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202067094,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202291838,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202126688,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202123648,
+        "nombre": "Ana",
+        "curso": "LFP",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202372000,
+        "nombre": "Sofia",
+        "curso": "AYD1",
+        "nota": 80,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202391654,
+        "nombre": "Luis",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202022296,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201981017,
+        "nombre": "Pedro",
+        "curso": "AYD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202377239,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201957365,
+        "nombre": "Juan",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202180923,
+        "nombre": "Pedro",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202230819,
+        "nombre": "Luis",
+        "curso": "BD1",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202082685,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202289699,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 201942771,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 201920179,
+        "nombre": "Juan",
+        "curso": "AYD1",
+        "nota": 60,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202188836,
+        "nombre": "Laura",
+        "curso": "BD1",
+        "nota": 70,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202182750,
+        "nombre": "Maria",
+        "curso": "SO1",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202399642,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202333703,
+        "nombre": "Pedro",
+        "curso": "LFP",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202164954,
+        "nombre": "Laura",
+        "curso": "SO1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202359762,
+        "nombre": "Ana",
+        "curso": "BD1",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202088973,
+        "nombre": "Carlos",
+        "curso": "SA",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202037413,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 60,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202089155,
+        "nombre": "Carlos",
+        "curso": "LFP",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202081913,
+        "nombre": "Juan",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202135420,
+        "nombre": "Sofia",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202218678,
+        "nombre": "Carlos",
+        "curso": "SO1",
+        "nota": 50,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202079559,
+        "nombre": "Laura",
+        "curso": "LFP",
+        "nota": 100,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202390873,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "2S",
+        "year": 2023
+    },
+    {
+        "carnet": 202193691,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 80,
+        "semestre": "1S",
+        "year": 2023
+    },
+    {
+        "carnet": 202028056,
+        "nombre": "Juan",
+        "curso": "SA",
+        "nota": 90,
+        "semestre": "1S",
+        "year": 2023
+    }
+]

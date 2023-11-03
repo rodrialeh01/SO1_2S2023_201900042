@@ -42,4 +42,4 @@ def generar_archivo_json(cantidad, nombre_archivo):
         json.dump(jsons, file, indent=4)
 
 # Llama a la función para generar 10 JSONs y guárdalos en un archivo llamado "datos.json"
-generar_archivo_json(300, "datos.json")
+generar_archivo_json(1000, "data.json")
