@@ -1,0 +1,13 @@
+apiVersion: autoscaling/v1
+kind: HorizontalPodAutoscaler
+metadata:
+  name: hpa-grcp
+  namespace: so1-p2
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: grcp-app
+  minReplicas: 1
+  maxReplicas: 3
+  targetCPUUtilizationPercentage: 50

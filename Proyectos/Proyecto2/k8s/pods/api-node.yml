@@ -18,6 +18,10 @@ spec:
       containers:
       - name: node-server
         image: rodrialeh01/apinodejsp2:3.0.0
+        imagePullPolicy: Always
+        resources:
+          requests:
+            cpu: "300m"
         ports:
         - containerPort: 5000
         env:

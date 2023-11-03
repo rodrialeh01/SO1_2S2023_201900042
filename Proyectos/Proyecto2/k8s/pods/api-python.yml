@@ -18,6 +18,9 @@ spec:
       containers:
       - name: py-client
         image: rodrialeh01/apipythonp2:10.0.0
+        resources:
+          requests:
+            cpu: "300m"
         ports:
         - containerPort: 4000
         env:

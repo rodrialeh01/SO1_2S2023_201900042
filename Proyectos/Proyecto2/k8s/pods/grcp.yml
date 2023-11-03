@@ -18,10 +18,16 @@ spec:
       containers:
       - name: grcp-client
         image: rodrialeh01/clientgrcpp2:2.0.0
+        resources:
+          requests:
+            cpu: "300m"
         ports:
         - containerPort: 4000
       - name: grcp-server
         image: rodrialeh01/servergrcpp2:2.0.0
+        resources:
+          requests:
+            cpu: "300m"
         ports:
         - containerPort: 3000
         env:
