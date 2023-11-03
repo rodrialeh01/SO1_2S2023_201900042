@@ -1,0 +1,59 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: py-deployment
+  namespace: so1-p2
+  labels:
+    app: py-app
+spec:
+  replicas:
+  selector:
+    matchLabels:
+      app: py-app
+  template:
+    metadata:
+      labels:
+        app: py-app
+    spec:
+      containers:
+      - name: py-client
+        image: rodrialeh01/apipythonp2:10.0.0
+        ports:
+        - containerPort: 4000
+        env:
+          - name: REDIS_HOST
+            valueFrom:
+              secretKeyRef:
+                name: mi-secret-so1p2
+                key: REDIS_HOST
+          - name: REDIS_PORT
+            valueFrom:
+              secretKeyRef:
+                name: mi-secret-so1p2
+                key: REDIS_PORT
+          - name: DB_USER
+            valueFrom:
+              secretKeyRef:
+                name: mi-secret-so1p2
+                key: SQL_USER
+          - name: DB_PASSWORD
+            valueFrom:
+              secretKeyRef:
+                name: mi-secret-so1p2
+                key: SQL_PASSWORD
+          - name: DB_HOST
+            valueFrom:
+              secretKeyRef:
+                name: mi-secret-so1p2
+                key: SQL_HOST
+          - name: DB_PORT
+            valueFrom:
+              secretKeyRef:
+                name: mi-secret-so1p2
+                key: SQL_PORT
+          - name: DB_NAME
+            valueFrom:
+              secretKeyRef:
+                name: mi-secret-so1p2
+                key: SQL_NAME
+        

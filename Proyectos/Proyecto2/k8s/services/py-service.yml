@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: py-service
+  namespace: so1-p2
+spec:
+  ports:
+  - port: 4000
+    targetPort: 4000
+    protocol: TCP
+    name: py-port
+  selector:
+    app: py-app
+  type: NodePort

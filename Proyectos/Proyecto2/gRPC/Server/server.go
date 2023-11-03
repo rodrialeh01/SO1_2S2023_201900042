@@ -10,18 +10,12 @@ import (
 	pb "servidor/grpc-server"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/joho/godotenv"
 	"google.golang.org/grpc"
 )
 
 var conexion = ConexionMysql()
 
 func ConexionMysql() (db *sql.DB) {
-
-	err := godotenv.Load()
-	if err != nil {
-		log.Fatal("Error loading .env file")
-	}
 
 	dbUser := os.Getenv("DB_USER")
 	dbPass := os.Getenv("DB_PASSWORD")

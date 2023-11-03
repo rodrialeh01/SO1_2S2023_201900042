@@ -4,9 +4,12 @@ WORKDIR /API
 
 COPY . .
 
-RUN pip install --upgrade pip
+RUN apk add --no-cache gcc musl-dev linux-headers
+
+RUN pip install --no-binary :all: psutil
+
 RUN pip install -r requirements.txt
 
-EXPOSE 3000
+EXPOSE 4000
 
 CMD ["python3", "main.py"]

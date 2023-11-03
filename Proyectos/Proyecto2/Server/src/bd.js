@@ -1,6 +1,5 @@
-import { config } from 'dotenv';
 import { createPool } from 'mysql2/promise';
-config();
+
 
 export const db = createPool({
     host: process.env.DB_HOST,

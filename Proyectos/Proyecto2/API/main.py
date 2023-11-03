@@ -1,5 +1,6 @@
 import json
 import os
+from os import getenv
 
 import mysql.connector
 import redis
@@ -9,20 +10,19 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
-
 load_dotenv()
 
 bdsql = mysql.connector.pooling.MySQLConnectionPool(
-    host=os.getenv('DB_HOST'),
-    user=os.getenv('DB_USER'),
-    passwd=os.getenv('DB_PASSWORD'),
-    database=os.getenv('DB_NAME'),
+    host=getenv('DB_HOST'),
+    user=getenv('DB_USER'),
+    passwd=getenv('DB_PASSWORD'),
+    database=getenv('DB_NAME'),
     pool_size=25
 )
 
 bdredis = redis.StrictRedis(
-    host=os.getenv('DB_HOST'),
-    port=6379,
+    host=getenv('REDIS_HOST'),
+    port=getenv('REDIS_PORT'),
     db=0
 )
 
@@ -62,6 +62,7 @@ def entrada():
         values = (carnet, nombre, curso, nota, semestre, anio)
         cursor.execute(sql, values)
         result = cursor.fetchall()
+        conexion.commit()
         print('Ya se registro en MySQL')
         print(result)
         return jsonify({
